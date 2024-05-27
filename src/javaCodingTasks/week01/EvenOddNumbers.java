@@ -4,6 +4,7 @@ public class EvenOddNumbers {
 
     public static void main(String[] args) {
         System.out.println(evenOddNumbers(10));
+        System.out.println(evenOddNumbers(21));
     }
 
     public static String evenOddNumbers(int n) {
