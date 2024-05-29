@@ -8,6 +8,7 @@ public class DivideWithoutOperator {
             int count=0;
             if (bolen==0){
                 System.out.println("Gecersiz islem");
+                return;
             }
             while (bolunen>=bolen){
                 bolunen-=bolen;
