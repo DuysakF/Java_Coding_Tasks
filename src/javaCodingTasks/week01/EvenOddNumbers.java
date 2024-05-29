@@ -8,6 +8,7 @@ public class EvenOddNumbers {
         System.out.println(evenOrOdd(5));
         System.out.println(evenOrOdd(6));
 
+
     }
 
     public static String evenOrOdd(int num) {
