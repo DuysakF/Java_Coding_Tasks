@@ -10,7 +10,6 @@ public class DivideWithoutOperator {
                 System.out.println("Gecersiz islem");
             }
             while (bolunen>=bolen){
-                int sonuc=bolunen-bolen;
                 bolunen-=bolen;
                 count++;
 
