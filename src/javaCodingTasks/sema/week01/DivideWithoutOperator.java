@@ -6,10 +6,10 @@ public class DivideWithoutOperator {
         int bolen = 3;
         int count = 0;
 
-        if (bolen == 0) {
-            System.out.println("Geçersiz işlem: Bölme sıfır ile yapılamaz.");
-            return;
-        }
+//        if (bolen == 0) {
+//            System.out.println("Geçersiz işlem: Bölme sıfır ile yapılamaz.");
+//            return;
+//        }
 
         int orijinalBolunen = bolunen;  // Orijinal bölünen
 
