@@ -8,9 +8,9 @@ public class EvenOddNumbers {
     }
     public static void oddEven(int num){
         if(num%2==0){
-            System.out.println("The number is Odd");
-        }else {
             System.out.println("The number is Even");
+        }else {
+            System.out.println("The number is Odd");
         }
 
     }
