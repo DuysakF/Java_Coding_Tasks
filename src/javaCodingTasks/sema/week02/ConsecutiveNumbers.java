@@ -2,7 +2,7 @@ package javaCodingTasks.sema.week02;
 
 public class ConsecutiveNumbers {
     public static void main(String[] args) {
-        int N = 15;
+        int N = 30;
         printNumbers(N);
     }
 
