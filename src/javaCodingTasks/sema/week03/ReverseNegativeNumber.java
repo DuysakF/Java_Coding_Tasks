@@ -20,7 +20,7 @@ public class ReverseNegativeNumber {
     }
 
     public static void main(String[] args) {
-        int negativeNumber = -73;
+        int negativeNumber = -79;
         int reversedNegative = reverseNegative(negativeNumber);
         System.out.println("Reversed negative number is: " + reversedNegative);
     }

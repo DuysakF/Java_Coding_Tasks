@@ -14,7 +14,7 @@ public class PrimeNumbers {
     }
 
     public static void main(String[] args) {
-        int number = 53;
+        int number = 54;
         if (isPrime(number)) {
             System.out.println(number + " is a prime number.");
         } else {
