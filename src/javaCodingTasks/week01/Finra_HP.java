@@ -1,6 +1,6 @@
 package javaCodingTasks.week01;
 
-public class Finra {
+public class Finra_HP {
 
     public static void finra() {
         for (int i = 1; i <= 30; i++) {

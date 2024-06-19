@@ -1,12 +1,16 @@
 package javaCodingTasks.week01;
 
-public class EvenOddNumbers {
+public class EvenOddNum_HP {
 
 
     public static void main(String[] args) {
 
         System.out.println(evenOrOdd(5));
         System.out.println(evenOrOdd(6));
+
+
+        String a = evenOrOdd(5);
+        System.out.println(a);
 
 
     }
