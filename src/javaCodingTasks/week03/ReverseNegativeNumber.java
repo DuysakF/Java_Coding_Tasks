@@ -2,7 +2,7 @@ package javaCodingTasks.week03;
 public class ReverseNegativeNumber {
 
     public static void main(String[] args) {
-        System.out.println(reverseNegativeNumber(-12345));
+        System.out.println(reverseNegativeNumber(-1234500));
 
     }
     public static int reverseNegativeNumber(int number) {
