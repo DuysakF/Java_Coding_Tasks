@@ -14,14 +14,14 @@ public class Divisible_ {
         //Divisible By 3 3 6 9 12 18 21 24 27 33 36 39 42 48 51 54 57 63 66 69 72 78 81 84 87 93 96 99
 
 
-        String divisible15 = "";
+        String divisible15 ="";
         String divisible5 = "";
         String divisible3 = "";
 
         for (int i = 1; i <= 100; i++) {
 
             if( i %  15 == 0) {
-                divisible15 += i+ " ";
+                divisible15 += i +" ";
 
             } else if ( i% 5 == 0) {
                 divisible5 += i + " ";
